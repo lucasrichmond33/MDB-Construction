@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Home Alone</title>
+  </head>
+  <center>
+  <body bgcolor="#CCFFCC">
+    <a href="index.html">Home at Last</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
+    <h1>This is Lucas' Home Page!</h1>
+    <img src="images/house.jpeg" height="500">
+    <br>
+    <br>
+    <br>
+    <audio controls autoplay loop>
+    <source src="audio/track2.mp3" type="audio/mpeg">
+    </audio>
+    </a>
+<br>
+<br>
+<b1>(Play at x1.75 Playback speed)
+<br>
+    <br>
+  </body>
+</html>
