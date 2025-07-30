@@ -1,4 +1,4 @@
-<!--
+
 <!doctype html>
 	<html lang="en">
 	  <head>
@@ -10,7 +10,7 @@
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
-    <h1> Howdy Y'all!!! </h1>
+    <h1> MDB Construction </h1>
     <br>
     <h1> These are a few things I enjoy ...
     <br>
@@ -18,28 +18,24 @@
     <br>Playing football
 <br>
     <br>
-  <img src="images/me2.PNG" height="300">
+
     <br>
     <br>
    <br>Cooking rice
 <br>
     <br>
-  <img src="images/rice.jfif" height="300">
+
     <br>
     <br>
     <br>Tubing
 <br>
     <br>
-  <img src="images/tubing.jpg" height="300">
     <br>
     <br>
 	    <br>
     <br>
-<audio controls autoplay loop>
-    <source src="audio/track1.mp3" type="audio/mpeg">
-    </audio>
     </a>
 
 	  </body>
 	</html>
--->
+
